@@ -1,22 +1,38 @@
-# Basic Recipe Website
+# Odin Recipes
 
 ## Overview
-This project is a **basic recipe website** built entirely with **HTML**. It’s a hands-on exercise designed to practice and solidify fundamental HTML skills — focusing on structure, semantics, and linking between pages.  
+**Odin Recipes** is a simple multi-page website built entirely with HTML.  
+The project demonstrates fundamental front-end development skills — structuring pages, linking between them, and organizing content semantically.  
 
-The website consists of:
-- A **main index page** that lists multiple recipes.  
-- Individual **recipe pages** for each dish, containing images, ingredient lists, and preparation steps.  
-
-At this stage, the goal is to **write clean, well-structured HTML** — not to design a polished layout. CSS and additional styling will be added later in a future phase.
+This was created as part of The Odin Project’s Foundations curriculum to strengthen core HTML skills before introducing CSS or JavaScript.
 
 ---
 
-## Project Objectives
-- Practice using core HTML elements and tags.
-- Learn to structure web pages with headings, paragraphs, lists, and images.
-- Understand how to link between pages using relative paths.
-- Build a simple multi-page website from scratch.
+## Features
+- Homepage linking to multiple recipe pages  
+- Individual recipe pages featuring:
+  - Recipe title and image  
+  - Description of the dish  
+  - Ingredients list  
+  - Step-by-step preparation guide  
+  - Navigation link back to the homepage  
 
 ---
 
-##
+## Key Learnings
+- Writing semantic and accessible HTML  
+- Structuring multi-page websites  
+- Using relative paths for navigation  
+- Organizing assets and file hierarchy effectively  
+
+---
+
+## Future Improvements
+- Apply CSS for layout and responsive design  
+- Introduce JavaScript for interactivity  
+- Expand content with additional recipes and categories  
+
+---
+
+## Reflection
+This project provided hands-on practice in creating a website from scratch using only HTML. It served as a solid foundation for learning how to structure and link content logically — essential skills before moving into styling and scripting.
