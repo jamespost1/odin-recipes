@@ -1,0 +1,59 @@
+/* ===== Basic Reset ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  color: #202124;
+  background-color: #fff;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===== Layout ===== */
+body {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
+
+/* ===== Typography ===== */
+h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  color: #202124;
+}
+
+p {
+  margin-bottom: 1rem;
+  color: #3c4043;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* ===== Div Spacing Helper ===== */
+div {
+  margin-bottom: 1.5rem;
+}
+
+/* ===== Links (if any) ===== */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
